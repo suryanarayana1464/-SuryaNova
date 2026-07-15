@@ -1,0 +1,18 @@
+[
+  {
+    "id": "att_1",
+    "employeeEmail": "surya@sny.com",
+    "date": "2026-07-13",
+    "checkIn": "09:05:12",
+    "checkOut": "18:02:45",
+    "status": "Present"
+  },
+  {
+    "id": "att_2",
+    "employeeEmail": "dindu@sny.com",
+    "date": "2026-07-13",
+    "checkIn": "08:55:00",
+    "checkOut": "17:30:15",
+    "status": "Present"
+  }
+]

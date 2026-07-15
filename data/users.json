@@ -1,0 +1,32 @@
+[
+  {
+    "id": "user_admin",
+    "email": "suryanarayana@sny.com",
+    "role": "Admin",
+    "password": "$2b$10$FOeQmVDoXIBc6QTtWEKXBejInJrPz2g2M2S6TdM6.HxFhFqRQNQo2"
+  },
+  {
+    "id": "user_hr",
+    "email": "vchandana@sny.com",
+    "role": "HR",
+    "password": "$2b$10$FOeQmVDoXIBc6QTtWEKXBe7FA4.fEaLx7jVzuU8ztJLbFpaXJ9PTm"
+  },
+  {
+    "id": "user_emp1",
+    "email": "surya@sny.com",
+    "role": "Employee",
+    "password": "$2b$10$FOeQmVDoXIBc6QTtWEKXBeOpsXGbN0OV6PdbIt1Tn4g8qC9ieINUq"
+  },
+  {
+    "id": "user_emp2",
+    "email": "dindu@sny.com",
+    "role": "Employee",
+    "password": "$2b$10$FOeQmVDoXIBc6QTtWEKXBeOpsXGbN0OV6PdbIt1Tn4g8qC9ieINUq"
+  },
+  {
+    "id": "user_8l3bqj52a",
+    "email": "nani@sny.com",
+    "role": "Employee",
+    "password": "$2b$10$9OZWQxWsIKlc9HQ8tLZGHONPlT1tl26c35cu8MsUSktU9mQh43eKm"
+  }
+]

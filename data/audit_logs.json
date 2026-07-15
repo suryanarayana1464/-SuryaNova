@@ -1,0 +1,101 @@
+[
+  {
+    "id": "log_xd5trv65g",
+    "timestamp": "2026-07-15T17:42:55.194Z",
+    "actorEmail": "vchandana@sny.com",
+    "actorName": "V.Chandana",
+    "actorRole": "HR",
+    "action": "Leave Approved",
+    "details": "Leave request of type \"casual\" for Surya (surya@sny.com) from 2026-08-10 to 2026-08-12 was approved by V.Chandana. Reason: \"Approved by HR Team\" Automated email alert sent to surya@sny.com. Sandbox Link: https://ethereal.email/message/alfGnGBj8NA9dpLQalfGn8j-4oM0zfc5AAAAAehoGyz7XWYEX1PGZ55VUus"
+  },
+  {
+    "id": "log_lbqz4zuc7",
+    "timestamp": "2026-07-15T17:42:37.940Z",
+    "actorEmail": "vchandana@sny.com",
+    "actorName": "V.Chandana",
+    "actorRole": "HR",
+    "action": "Login Success",
+    "details": "User V.Chandana successfully logged into the system."
+  },
+  {
+    "id": "log_ojlx34oju",
+    "timestamp": "2026-07-15T17:42:20.476Z",
+    "actorEmail": "surya@sny.com",
+    "actorName": "Surya",
+    "actorRole": "Employee",
+    "action": "Login Success",
+    "details": "User Surya successfully logged into the system."
+  },
+  {
+    "id": "log_9kj1rteup",
+    "timestamp": "2026-07-15T17:42:01.293Z",
+    "actorEmail": "dindu@sny.com",
+    "actorName": "Dindu",
+    "actorRole": "Employee",
+    "action": "Login Success",
+    "details": "User Dindu successfully logged into the system."
+  },
+  {
+    "id": "log_mbhh90tr7",
+    "timestamp": "2026-07-15T17:41:22.372Z",
+    "actorEmail": "nani@sny.com",
+    "actorName": "Nani",
+    "actorRole": "Employee",
+    "action": "Employee Signed Up",
+    "details": "Employee Nani (nani@sny.com) successfully registered and activated their account."
+  },
+  {
+    "id": "log_16xwgus89",
+    "timestamp": "2026-07-15T17:40:57.445Z",
+    "actorEmail": "suryanarayana@sny.com",
+    "actorName": "suryanarayana",
+    "actorRole": "Admin",
+    "action": "Employee Onboarded",
+    "details": "Onboarded employee Nani (nani@sny.com) with ID EMP004 in the Engineering department."
+  },
+  {
+    "id": "log_ozjj281s8",
+    "timestamp": "2026-07-15T17:40:02.634Z",
+    "actorEmail": "suryanarayana@sny.com",
+    "actorName": "suryanarayana",
+    "actorRole": "Admin",
+    "action": "Login Success",
+    "details": "User suryanarayana successfully logged into the system."
+  },
+  {
+    "id": "log_6m55wynoe",
+    "timestamp": "2026-07-15T17:39:21.515Z",
+    "actorEmail": "suryanarayana@sny.com",
+    "actorName": "suryanarayana",
+    "actorRole": "Admin",
+    "action": "Login Success",
+    "details": "User suryanarayana successfully logged into the system."
+  },
+  {
+    "id": "log_seed1",
+    "timestamp": "2026-07-13T09:00:00.000Z",
+    "actorEmail": "suryanarayana@sny.com",
+    "actorName": "suryanarayana",
+    "actorRole": "Admin",
+    "action": "Login Success",
+    "details": "User suryanarayana successfully logged into the system."
+  },
+  {
+    "id": "log_seed2",
+    "timestamp": "2026-07-13T10:30:15.000Z",
+    "actorEmail": "vchandana@sny.com",
+    "actorName": "V.Chandana",
+    "actorRole": "HR",
+    "action": "Leave Approved",
+    "details": "Leave request of type \"medical\" for Dindu (dindu@sny.com) from 2026-07-20 to 2026-07-21 was approved by V.Chandana."
+  },
+  {
+    "id": "log_seed3",
+    "timestamp": "2026-07-14T08:15:30.000Z",
+    "actorEmail": "suryanarayana@sny.com",
+    "actorName": "suryanarayana",
+    "actorRole": "Admin",
+    "action": "Employee Onboarded",
+    "details": "Onboarded employee Surya (surya@sny.com) with ID EMP002 in the Engineering department."
+  }
+]

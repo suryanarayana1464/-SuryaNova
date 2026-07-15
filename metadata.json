@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "A full-stack employee management system with role-based access control, leave management, and salary slip generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

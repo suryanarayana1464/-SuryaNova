@@ -1,0 +1,15 @@
+[
+  {
+    "id": "slip_1",
+    "employeeEmail": "surya@sny.com",
+    "employeeName": "Surya",
+    "employeeId": "EMP002",
+    "month": "June",
+    "year": 2026,
+    "basic": 80000,
+    "allowances": 24000,
+    "deductions": 4000,
+    "netSalary": 100000,
+    "generatedAt": "2026-06-30T18:00:00Z"
+  }
+]

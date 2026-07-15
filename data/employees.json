@@ -1,0 +1,92 @@
+[
+  {
+    "id": "emp_admin",
+    "email": "suryanarayana@sny.com",
+    "name": "suryanarayana",
+    "employeeId": "EMP000",
+    "department": "Operations",
+    "role": "Admin",
+    "joiningDate": "2024-01-15",
+    "leaveBalance": {
+      "casual": 15,
+      "medical": 10
+    },
+    "salary": {
+      "basic": 160000,
+      "allowances": 50000,
+      "deductions": 10000
+    }
+  },
+  {
+    "id": "emp_hr",
+    "email": "vchandana@sny.com",
+    "name": "V.Chandana",
+    "employeeId": "EMP001",
+    "department": "Human Resources",
+    "role": "HR",
+    "joiningDate": "2024-03-01",
+    "leaveBalance": {
+      "casual": 15,
+      "medical": 10
+    },
+    "salary": {
+      "basic": 120000,
+      "allowances": 36000,
+      "deductions": 6000
+    }
+  },
+  {
+    "id": "emp_emp1",
+    "email": "surya@sny.com",
+    "name": "Surya",
+    "employeeId": "EMP002",
+    "department": "Engineering",
+    "role": "Employee",
+    "joiningDate": "2025-06-15",
+    "leaveBalance": {
+      "casual": 9,
+      "medical": 9
+    },
+    "salary": {
+      "basic": 80000,
+      "allowances": 24000,
+      "deductions": 4000
+    }
+  },
+  {
+    "id": "emp_emp2",
+    "email": "dindu@sny.com",
+    "name": "Dindu",
+    "employeeId": "EMP003",
+    "department": "Marketing",
+    "role": "Employee",
+    "joiningDate": "2025-09-01",
+    "leaveBalance": {
+      "casual": 14,
+      "medical": 10
+    },
+    "salary": {
+      "basic": 64000,
+      "allowances": 20000,
+      "deductions": 4000
+    }
+  },
+  {
+    "id": "emp_ane1rnadm",
+    "email": "nani@sny.com",
+    "name": "Nani",
+    "employeeId": "EMP004",
+    "department": "Engineering",
+    "role": "Employee",
+    "joiningDate": "2026-07-01",
+    "leaveBalance": {
+      "casual": 15,
+      "medical": 10
+    },
+    "salary": {
+      "basic": 112000,
+      "allowances": 1500,
+      "deductions": 500
+    }
+  }
+]

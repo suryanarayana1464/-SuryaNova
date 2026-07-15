@@ -1,0 +1,25 @@
+[
+  {
+    "id": "leave_1",
+    "employeeEmail": "surya@sny.com",
+    "employeeName": "Surya",
+    "leaveType": "casual",
+    "startDate": "2026-08-10",
+    "endDate": "2026-08-12",
+    "reason": "Family event",
+    "status": "approved",
+    "createdAt": "2026-07-10T10:00:00Z",
+    "comments": "Approved by HR Team"
+  },
+  {
+    "id": "leave_2",
+    "employeeEmail": "dindu@sny.com",
+    "employeeName": "Dindu",
+    "leaveType": "medical",
+    "startDate": "2026-07-20",
+    "endDate": "2026-07-21",
+    "reason": "Dental checkup",
+    "status": "approved",
+    "createdAt": "2026-07-12T09:30:00Z"
+  }
+]
